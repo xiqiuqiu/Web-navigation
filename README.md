@@ -1,17 +1,17 @@
 各类导航集合
 
 设计类
-doyoudo 资源导航 免费素材，包括图片、视频、音乐、字体、工具等等 http://www.doyoudo.com/resources
-设计导航 腾讯 CDC 打造的设计师导航站 http://idesign.qq.com/#!index/feed
-•	优设导航 http://hao.uisdc.com/
-•	优波导航 比较全的设计资源类 https://ubuuk.com/#
-•	设计师导航 http://webstack.cc/cn/index.html
-•	
+doyoudo 资源导航 免费素材，包括图片、视频、音乐、字体、工具等等 http://www.doyoudo.com/resources<br />
+设计导航 腾讯 CDC 打造的设计师导航站 http://idesign.qq.com/#!index/feed<br />
+优设导航 http://hao.uisdc.com/<br />
+优波导航 比较全的设计资源类 https://ubuuk.com/#<br />
+设计师导航 http://webstack.cc/cn/index.html<br />
+
 
 产品类
-•	产品大牛 主要是产品经理日常使用 http://www.pmdaniu.com/navigate
-•	产品经理导航 http://dh.woshipm.com/
-•	
+
+产品大牛 主要是产品经理日常使用 http://www.pmdaniu.com/navigate<br />
+产品经理导航 http://dh.woshipm.com/<br />
 
 新媒体编辑类
 •	米范 新媒体（公众号）编辑相关 https://www.mifar.net
